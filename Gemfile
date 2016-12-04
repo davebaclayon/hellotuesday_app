@@ -7,6 +7,7 @@ gem 'rails', '5.0.0.1'
 
 group:development do
 	gem 'sqlite3' #, '1.3.12'
+	gem 'listen', '~> 3.1.5'
 	# Call 'byebug' anywhere in the code to stop execution and get a debugger console
 	#gem 'byebug', '9.0.0', platform: :mri
 end
